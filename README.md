@@ -9,7 +9,7 @@
 
 💻 Languages, Frameworks, Tools:
 
-bootstrap css figma git html5 javascript react redux sass 
+bootstrap css figma git html javascript react redux sass 
 
 📈 GitHub Stats
 
