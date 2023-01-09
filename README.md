@@ -11,6 +11,7 @@
 
 bootstrap css figma git html5 javascript react redux sass 
 
+📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szymofcion&show_icons=true&theme=dracula) 
 
