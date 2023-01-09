@@ -17,4 +17,4 @@ bootstrap css figma git html5 javascript react redux sass
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymofcion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymofcion&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
