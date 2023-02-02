@@ -12,7 +12,7 @@
 bootstrap css figma git html javascript react redux sass 
 
 📈 GitHub Stats
-
+<textalign:center> </>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szymofcion&show_icons=true&theme=dracula) 
 
 
