@@ -9,17 +9,18 @@
 
 💻 Languages, Frameworks, Tools:
 
-<textalign:center>
+
 
 bootstrap css figma git html javascript react redux sass 
 
+<textalign:center></>
 📈 GitHub Stats
 
-<textalign:center> 
+<textalign:center></>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szymofcion&show_icons=true&theme=dracula) 
 
 
-<textalign:center> 
+<textalign:center></>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymofcion&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
