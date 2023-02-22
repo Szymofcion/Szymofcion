@@ -11,7 +11,7 @@
 
 
 
-bootstrap css figma npm git html javascript react redux sass typescript
+bootstrap css figma npm git gulp html javascript react redux sass typescript
 
 
 📈 GitHub Stats
