@@ -10,7 +10,6 @@
 💻 Languages, Frameworks, Tools:
 
 
-
 bootstrap css figma npm git gulp html javascript react redux sass typescript
 
 
