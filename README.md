@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on creating a portfolio
 - 🌱 I’m currently learning Node.js, Redux and TS
-- 📫 How to reach me: https://www.linkedin.com/in/szymon-dziewa-a50823226/
+- 📫 How to reach me: www.linkedin.com/in/szymon-dziewa
 - ⚡ Fun fact: I love my cat 
 -->
 
