@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating a portfolio
+- 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning Node.js, Redux and TS
 - 📫 How to reach me: www.linkedin.com/in/szymon-dziewa
 - 📫 Reach me on Discord - Szymofcion#5378
