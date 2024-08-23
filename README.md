@@ -11,7 +11,7 @@
 💻 Languages, Frameworks, Tools:
 
 
-javascript typescript react redux redux-toolkit html bootstrap css sass api gulp npm figma git
+javascript typescript react redux redux-toolkit html bootstrap tailwind css scss api gulp npm figma git 
 
 
 📈 GitHub Stats
